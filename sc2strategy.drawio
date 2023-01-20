@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T09:39:19.692Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Dh9etLO7KJUV69EPoH90" version="20.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T09:41:04.495Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MCcZPtKG-oroFasVJHa6" version="20.8.7" type="github">
   <diagram id="8T3hJ6hj14eDnjatASG-" name="unit composition">
-    <mxGraphModel dx="1589" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2566" dy="1234" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,29 +134,29 @@
         <mxCell id="UNQcKs0fPld5dCaY8m3V-20" value="ULTRA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="662" y="923" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNQcKs0fPld5dCaY8m3V-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UNQcKs0fPld5dCaY8m3V-21" target="UNQcKs0fPld5dCaY8m3V-22" edge="1">
+        <mxCell id="UNQcKs0fPld5dCaY8m3V-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_7tuPLrVdYwfqxMOMU_q-6" target="UNQcKs0fPld5dCaY8m3V-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_7tuPLrVdYwfqxMOMU_q-5" value="vs trad mech (tank thor)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNQcKs0fPld5dCaY8m3V-44">
           <mxGeometry x="-0.2262" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7tuPLrVdYwfqxMOMU_q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNQcKs0fPld5dCaY8m3V-21" target="_7tuPLrVdYwfqxMOMU_q-3">
+        <mxCell id="_7tuPLrVdYwfqxMOMU_q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="_7tuPLrVdYwfqxMOMU_q-6" target="_7tuPLrVdYwfqxMOMU_q-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1091" y="653" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_7tuPLrVdYwfqxMOMU_q-4" value="vs battle mech (cyclone)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_7tuPLrVdYwfqxMOMU_q-2">
           <mxGeometry x="0.2557" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="30" as="offset" />
+            <mxPoint x="-1" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UNQcKs0fPld5dCaY8m3V-21" value="ROACH + RAVAGERS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="854" y="623" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNQcKs0fPld5dCaY8m3V-22" value="VIPERS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="854" y="727" width="120" height="60" as="geometry" />
+          <mxGeometry x="854" y="923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNQcKs0fPld5dCaY8m3V-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UNQcKs0fPld5dCaY8m3V-47" target="UNQcKs0fPld5dCaY8m3V-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +209,16 @@
           <mxGeometry x="1600" y="763" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_7tuPLrVdYwfqxMOMU_q-3" value="INFESTORS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="727" width="120" height="60" as="geometry" />
+          <mxGeometry x="1006" y="923" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_7tuPLrVdYwfqxMOMU_q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="UNQcKs0fPld5dCaY8m3V-21" target="_7tuPLrVdYwfqxMOMU_q-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974" y="653.047619047619" as="sourcePoint" />
+            <mxPoint x="1056" y="823" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7tuPLrVdYwfqxMOMU_q-6" value="SWARM HOST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="723" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
