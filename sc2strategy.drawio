@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T13:20:16.977Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mo1EgCr-NJ9tXRsEJU5W" version="20.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T22:45:27.840Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WazB-JnsZnOVzxkXhPJg" version="20.8.7" type="github">
   <diagram id="8T3hJ6hj14eDnjatASG-" name="unit composition">
-    <mxGraphModel dx="1450" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
             <mxPoint x="-1" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UNQcKs0fPld5dCaY8m3V-21" value="LING &lt;br&gt;ROACH &lt;br&gt;RAVAGER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UNQcKs0fPld5dCaY8m3V-21" value="LING&lt;br&gt;BANE&lt;br&gt;RAVAGER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="854" y="623" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UNQcKs0fPld5dCaY8m3V-22" value="VIPERS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
